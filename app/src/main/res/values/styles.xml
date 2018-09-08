@@ -9,7 +9,6 @@
     </style>
 
     <style name="button">
-        <item name="android"></item>
         <item name="android:background">@color/primaryDarkColor</item>
         <item name="android:textColor">@color/primaryTextColor</item>
     </style>
